@@ -7,7 +7,7 @@ Sou desenvolvedora web front-end freelancer
 
 Tenho 15 anos, moro em uma cidade no interior de Minas Gerais e estou no começo da minha carreira como desenvolvedora front-end.
 ## Algumas Informações
-👩‍💻 - Trabalho como Freelancer
+👩‍💻 - Pretendo começar como Freelancer
 
 🧠 - Estou Aprendendo Html,Css e JavaScript
 
