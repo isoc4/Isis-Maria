@@ -3,15 +3,17 @@
 
 
 ## 🚀 Sobre mim
-Sou desenvolvedora web front-end freelancer
+Sou desenvolvedora web front-end
 
-Tenho 15 anos, moro em uma cidade no interior de Minas Gerais e estou no começo da minha carreira como desenvolvedora front-end.
+Tenho 15 anos, moro em uma cidade no interior de Minas Gerais e estou no começo da minha carreira como programadora front-end.
+
 ## Algumas Informações
-👩‍💻 - Pretendo começar como Freelancer
 
-🧠 - Estou Aprendendo Html,Css e JavaScript
+👩‍💻 - No momento são só estudos
 
-👯‍♀️ - Procuro colaborar em projetos que        nescessitam de alguém comunicativa e que é apaixonada por programação
+🧠 - Estou Aprendendo JavaScript
+
+👯‍♀️ - Sou uma pessoa com muita paciencia e carisma
 
 📫 - Entre em contato comigo:
 
@@ -23,10 +25,8 @@ Discord: "isiszxc2"
 
 ⚡️ Sou boa em várias outras coisas além de programar, como futsal, jogos online e tocar ukulele dentre outros hobbies...
 
-
 ## 🛠 Habilidades
 HTML, CSS, JavaScript.
-
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-111?style=for-the-badge&logo=ko-fi&logoColor=white)](https://isoc4.github.io/html-css/desafios/d005/index.html)
