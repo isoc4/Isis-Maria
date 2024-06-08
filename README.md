@@ -5,15 +5,15 @@
 ## 🚀 Sobre mim
 Sou desenvolvedora web front-end
 
-Tenho 15 anos, moro em uma cidade no interior de Minas Gerais e estou no começo da minha carreira como programadora front-end.
+Tenho 15 anos, moro em uma cidade no interior de Minas Gerais e estou no começo da minha carreira como programadora.
 
 ## Algumas Informações
 
-👩‍💻 - No momento são só estudos
+👩‍💻 - No momento são só estudos.
 
-🧠 - Estou Aprendendo JavaScript
+🧠 - ...
 
-👯‍♀️ - Sou uma pessoa com muita paciencia e carisma
+👯‍♀️ - Sou uma pessoa extremamente amigável e compreensiva.
 
 📫 - Entre em contato comigo:
 
@@ -29,7 +29,7 @@ Discord: "isiszxc2"
 HTML, CSS, JavaScript.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-111?style=for-the-badge&logo=ko-fi&logoColor=white)](https://isoc4.github.io/html-css/desafios/d005/index.html)
+[![portfolio](https://img.shields.io/badge/my_portfolio-111?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isis-maria-dos-santos-5991802b9/)
 [![instagram](https://img.shields.io/badge/instagram-831d1c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isis_.00/)
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isoc4)
