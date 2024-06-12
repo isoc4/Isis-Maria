@@ -32,6 +32,7 @@ Email: isocaisismaria@gmail.com
 Discord: "isiszxc2"
 
 <h2>🔗 Links</h2>
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-111?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isis-maria-dos-santos-5991802b9/)
 [![instagram](https://img.shields.io/badge/instagram-831d1c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isis_.00/)
