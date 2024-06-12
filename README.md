@@ -1,10 +1,10 @@
 
 ![Banner](pattern-github.png)
 
-# Hello, I'm Isis! 👋
-## I'm a student and junior developer!
+<h1>Hello, I'm Isis! 👋</h1>
+<h2>I'm a student and junior developer!</h2>
 
-## 🚀 About me
+<h2>🚀 About me</h2>
 I'm a front-end web developer
 
 I'm 15 years old, I live in a small town in Minas Gerais, I'm at the beginning of my career as a programmer.
