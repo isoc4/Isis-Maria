@@ -1,8 +1,7 @@
 
 ![Banner](pattern-github.png)
 
-<h1>Hello, I'm Isis! 👋</h1>
-<h2>I'm a student and junior developer!</h2>
+<h1 style="align: center;">I'm a student and junior developer!</h1>
 
 <h2>🚀 About me</h2>
 I'm a front-end web developer
