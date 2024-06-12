@@ -1,32 +1,34 @@
 
-# Olá, eu sou a Isis! 👋
+![Banner](pattern-github.png)
 
+# Hello, I'm Isis! 👋
+## I'm a student and junior developer!
 
-## 🚀 Sobre mim
-Sou desenvolvedora web front-end
+## 🚀 About me
+I'm a front-end web developer
 
-Tenho 15 anos, moro em uma cidade no interior de Minas Gerais e estou no começo da minha carreira como programadora.
+I'm 15 years old, I live in a small town in Minas Gerais, I'm at the beginning of my career as a programmer.
 
-## Algumas Informações
+## 🛠 Habilidades
+HTML, CSS, JavaScript.
 
-👩‍💻 - No momento são só estudos.
+## 💁 Some information
+
+👩‍💻 - At the moment it's just studies.
 
 🧠 - ...
 
-👯‍♀️ - Sou uma pessoa extremamente amigável e compreensiva.
+👯‍♀️ - I am an extremely friendly and understanding person.
 
-📫 - Entre em contato comigo:
+😄 - She/Her.
+
+⚡️ - Some interesting facts about me is that i'm good at several other things besides programming, like five a side soccer(futsal), online games and some other hobbies...
+
+## 📫 Contact me:
 
 Email: isocaisismaria@gmail.com
 
 Discord: "isiszxc2"
-
-😄 Ela/Dela
-
-⚡️ Sou boa em várias outras coisas além de programar, como futsal, jogos online e tocar ukulele dentre outros hobbies...
-
-## 🛠 Habilidades
-HTML, CSS, JavaScript.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-111?style=for-the-badge&logo=ko-fi&logoColor=white)]()
